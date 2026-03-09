@@ -10,7 +10,7 @@ const rejectStampEl = document.getElementById('rejectStamp');
 const defaultButtonLabel = nextPhraseBtn.textContent;
 
 const NAAS_ENDPOINT = 'https://naas.isalman.dev/no';
-const CHIP_LABELS = ['NO', 'NOP', 'NEGADO'];
+const CHIP_LABELS = ['NO', 'NOP', 'NEGADO', 'images/gato.jfif'];
 
 let rainTimeoutId = null;
 let lastDropX = null;
